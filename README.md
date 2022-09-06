@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-- :tennis:
+Here are a few things that descrive me:
+
+- :zap: I'm currently working full-time at [Guzman Energy](https://www.guzmanenergy.com/) as a Data Scientist
+- :briefcase: I use Python to perform data analysis and use React with TypeScript to develop web application at work.
+- :computer: I maintain a personal web application at [Yuki's App](https://yukikitayama.com/)
+- 🌱 I’m currently learning more about machine learning and system design.
+- 📫 How to reach me: Message me in LinkedIn. Here is my profile [Yuki Kitayama](https://www.linkedin.com/in/yukikitayama/)
+- :tennis: Fun fact: I'm actively playing tennis at [USTA](https://www.usta.com/en/home/play/player-search/profile.html#?uaid=2018939333&results-eventType=ALL&results-year=all#tab=rankings)
 
 <!--
 **yukikitayama/yukikitayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
