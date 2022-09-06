@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are a few things that descrive me:
+Here are a few things that describe me:
 
 - :zap: I'm currently working full-time at [Guzman Energy](https://www.guzmanenergy.com/) as a Data Scientist
 - :briefcase: I use Python to perform data analysis and use React with TypeScript to develop web application at work.
