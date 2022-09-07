@@ -7,7 +7,7 @@ Here are a few things that describe me:
 - :computer: I maintain a personal web application at [Yuki's App](https://yukikitayama.com/) by NextJS and AWS.
 - 🌱 I’m currently learning more about machine learning and system design.
 - 📫 How to reach me: Message me in LinkedIn. Here is my profile [Yuki Kitayama](https://www.linkedin.com/in/yukikitayama/)
-- :tennis: Fun fact: I'm actively playing tennis at [USTA](https://www.usta.com/en/home/play/player-search/profile.html#?uaid=2018939333&results-eventType=ALL&results-year=all#tab=rankings) and [Universal Tennis]https://app.universaltennis.com/profiles/3482951()
+- :tennis: Fun fact: I'm actively playing tennis at [USTA](https://www.usta.com/en/home/play/player-search/profile.html#?uaid=2018939333&results-eventType=ALL&results-year=all#tab=rankings) and [Universal Tennis](https://app.universaltennis.com/profiles/3482951)
 
 <!--
 **yukikitayama/yukikitayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
