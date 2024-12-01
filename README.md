@@ -2,7 +2,7 @@
 
 Here are a few things that describe me:
 
-- :zap: I'm currently working full-time at [GANTRI]([https://www.guzmanenergy.com/](https://www.gantri.com/)) as Senior Data Engineer
+- :zap: I'm currently working full-time at [GANTRI](https://www.gantri.com/) as Senior Data Engineer
 - :briefcase: I use Python to perform data analysis and use React with TypeScript to develop web application at work.
 - :computer: I maintain a personal web application at [Yuki's App](https://yukikitayama.com/) by NextJS and AWS.
 - 🌱 I’m currently learning more about machine learning and system design.
